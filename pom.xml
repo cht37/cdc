@@ -13,6 +13,7 @@
         <module>statisticscdc</module>
         <module>aqi_statisticscdc</module>
         <module>province</module>
+        <module>grid</module>
     </modules>
     <properties>
         <java.version>17</java.version>
